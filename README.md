@@ -63,7 +63,7 @@ were asked to do. artifact_ref pins what they produced. All three recompute offl
 
 artifact_ref carries an open licence for A2A partners.
 
-Under Apache 2.0 License
+### Under Apache 2.0 License
 
 Implementers may adopt, implement, and build on it freely under Apache 2.0. Retain the NOTICE file and licence header in derivative works.
 

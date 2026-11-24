@@ -1,5 +1,8 @@
 # artifact_ref
 
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
+
 A deterministic, content addressed reference to an A2A Task output.
 
     artifact_ref = "sha256:" + SHA-256(JCS({task_ref, output_hash, artifact_type, produced_at_ms}))
